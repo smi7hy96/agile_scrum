@@ -16,3 +16,7 @@ Structured Query Language is the standard language for databases and allows acce
   - UPDATE *table_name*
     SET *column1* = '*value1*', *column2* = *value2'*
     WHERE *condition*
+- SELECT - Search and retrieve data from a database/ table
+  - SELECT * FROM *table_name*;
+  - SELECT *column1*, *column2*
+    FROM *table_name*;
